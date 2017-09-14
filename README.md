@@ -11,9 +11,9 @@ Ref: https://github.com/ZXVentures/code-challenge/blob/master/backend.md
 
 ## Install
 
-`É necessário um banco de dados postgres configurado com a extensão postgis congirada`
-`Criar e configurar um arquivo .env a partir do arquivo .env_sample com as informações da API (Conexão com base de dados, secret key, porta da api)`
-`npm install`
+ - `É necessário um banco de dados postgres configurado com a extensão postgis congirada`
+ - `Criar e configurar um arquivo .env a partir do arquivo .env_sample com as informações da API (Conexão com base de dados, secret key, porta da api)`
+ - `npm install`
 
 ## Run
 
